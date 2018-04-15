@@ -1,0 +1,19 @@
+{
+  "name": "AvatorVChecker",
+  "short_name": "AVC",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Check Avator Description in Hangame",
+  "icons": {
+    "16": "AVC Icon 16.png",
+    "48": "AVC Icon 48.png",
+    "64": "AVC Icon 64.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "http://auction.hangame.co.jp/*" ],
+      "js": [ "jquery-3.3.1.min.js", "main.js" ]
+
+    }
+  ]
+}
