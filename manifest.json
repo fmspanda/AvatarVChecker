@@ -1,9 +1,9 @@
 {
-  "name": "AvatorVChecker",
+  "name": "AvatarVChecker",
   "short_name": "AVC",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "Check Avator Description in Hangame",
+  "description": "Check Avatar Description in Hangame",
   "icons": {
     "16": "AVC Icon 16.png",
     "48": "AVC Icon 48.png",
