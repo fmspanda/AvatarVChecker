@@ -1,4 +1,4 @@
-# AvatorVChecker
+# AvatarVChecker
 ハンゲームのオークションページでアバターの詳細部位を確認出来る君
 
 ## 利用方法
